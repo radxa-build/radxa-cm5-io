@@ -21,6 +21,7 @@ jobs:
         - "radxa-cm5-io"
         flavors:
         - "kde"
+        - "cli"
         suites:
         - "bullseye"
   prepare_release:
